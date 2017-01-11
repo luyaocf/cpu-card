@@ -138,4 +138,12 @@
  *			进入0019文件目录
  *			00 A4 00 00 02 0019
  *
- *
+ */
+
+#include <stdio.h>
+
+void main(void)
+{
+	printf("hello CPUCard!\n");
+}
+
